@@ -1,2 +1,2 @@
 # FlagAnimation
-India
+Indian
