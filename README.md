@@ -1,2 +1,2 @@
 # FlagAnimation
-Indian Fla
+Indian Flag
