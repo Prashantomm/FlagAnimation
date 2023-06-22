@@ -1,3 +1,3 @@
 # FlagAnimation
 Indian Flag
-Tech stack used:
+Tech stack used:HTML,
