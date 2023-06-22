@@ -1,3 +1,3 @@
 # FlagAnimation
 Indian Flag
-Tech stack
+Tech stack used
